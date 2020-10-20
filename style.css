@@ -1,0 +1,43 @@
+
+body {
+    font: 62.5% Helvetica, Arial, sans-serif;
+        font-size: 62.5%;
+        text-align: center;
+        background-color: #141414;
+        text-decoration-color: white;
+}
+
+.linea1 {
+  height: 5px;
+  background: #ee2524;
+  margin-top: -2px;
+}
+
+.linea2 {
+  height: 2px;
+  background: #676767;
+  margin-top: -1px;
+}
+
+.lista-elementos{
+text-align: justify;
+color: white;
+font-size: 200%;
+padding-left: 1%;
+background-color: black;
+list-style:none;
+
+}
+
+#artistas{
+color: white;
+list-style:none;
+
+
+}
+
+.footer{
+  list-style:none;
+  background-color: #141414;
+}
+
